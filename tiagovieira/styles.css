@@ -1,0 +1,33 @@
+body {
+    background-color: aliceblue;
+}
+
+.container {
+    display: flex;
+    border-radius: 30px;
+    align-items: center;
+    justify-items: center;
+    text-align: center;
+}
+
+.big-text {
+    color: black;
+}
+
+#container-father {
+    display: flex;
+    height: 99vh;
+    align-items: center;
+    justify-items: center;
+}
+
+#about-container {
+    width: 40rem;
+    height: 95vh;
+}
+
+#profile-container {
+    background-color: rgb(47, 0, 255);
+    width: 40rem;
+    height: 95vh;
+}
